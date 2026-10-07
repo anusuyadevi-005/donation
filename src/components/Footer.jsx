@@ -53,7 +53,7 @@ const Footer = () => {
             <h4 className="font-bold text-lg mb-6 text-white/90">Contact</h4>
             <p className="text-white/90 font-semibold mb-1 text-lg">Anusuyadevi N</p>
             <a href="tel:7550399820" className="text-white/60 hover:text-kindora-accent transition-colors block mb-4">Phone: 7550399820</a>
-            <a href="mailto:hello@kindora.org" className="text-kindora-accent font-medium hover:underline block mb-2">hello@kindora.org</a>
+            <a href="mailto:anusuyapadmavathi2020@gmail.com" className="text-kindora-accent font-medium hover:underline block mb-2">anusuyapadmavathi2020@gmail.com</a>
             <p className="text-white/60">
               123 Hope Street,<br />
               New Delhi, India 110001
