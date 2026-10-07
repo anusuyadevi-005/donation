@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@theme {
+  --color-kindora-primary: #12372A;
+  --color-kindora-secondary: #436850;
+  --color-kindora-accent: #F4B942;
+  --color-kindora-bg: #F8F6F0;
+  --color-kindora-white: #FFFFFF;
+  --color-kindora-text: #18231F;
+  --font-sans: 'Inter', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-kindora-bg);
+  color: var(--color-kindora-text);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@utility text-balance {
+  text-wrap: balance;
+}
